@@ -1,0 +1,238 @@
+[
+  {
+    "id": "report-1783589143979",
+    "fileName": "resume.txt",
+    "jobTitle": "General Software Engineer",
+    "score": 25,
+    "date": "2026-07-09T09:25:43.979Z",
+    "matchPercentage": 20,
+    "structureGrade": "D",
+    "matchingKeywords": [
+      "Software Engineer",
+      "React",
+      "Node.js"
+    ],
+    "missingKeywords": [
+      "JavaScript",
+      "Git",
+      "SQL",
+      "API",
+      "Agile",
+      "Testing",
+      "CI/CD",
+      "Computer Science",
+      "Data Structures",
+      "Algorithms"
+    ],
+    "strengths": [
+      "Direct job title match",
+      "Mentions relevant modern web development technologies (React, Node.js)"
+    ],
+    "improvements": [
+      "Add contact information (Email, Phone, Location, LinkedIn/GitHub)",
+      "Expand professional experience with detailed bullet points using the STAR method (Situation, Task, Action, Result)",
+      "Add an Education or Certifications section",
+      "Include a dedicated Skills section to list additional tools, databases, and methodologies",
+      "Incorporate quantifiable metrics to demonstrate the impact of previous work"
+    ]
+  },
+  {
+    "id": "report-fallback-1783577690286",
+    "fileName": "Resume-F.S.D.docx",
+    "jobTitle": "Software Engineer",
+    "score": 78,
+    "date": "2026-07-09T06:14:50.286Z",
+    "matchPercentage": 75,
+    "structureGrade": "B+",
+    "matchingKeywords": [
+      "React",
+      "JavaScript",
+      "HTML/CSS",
+      "Git"
+    ],
+    "missingKeywords": [
+      "Redux",
+      "Node.js",
+      "System Design"
+    ],
+    "strengths": [
+      "Clear layout and easily parsable structure.",
+      "Good use of action verbs in experience section.",
+      "Contact information is clearly visible."
+    ],
+    "improvements": [
+      "Quantify achievements with specific metrics (e.g., \"improved performance by 20%\").",
+      "Add more keywords from the job description to boost match rate.",
+      "Consider adding a short professional summary at the top."
+    ]
+  },
+  {
+    "id": "report-1783508378966",
+    "fileName": "Resume-F.S.D.docx",
+    "jobTitle": "General Software Engineer",
+    "score": 82,
+    "date": "2026-07-08T10:59:38.966Z",
+    "matchPercentage": 85,
+    "structureGrade": "B",
+    "matchingKeywords": [
+      "JavaScript",
+      "Python",
+      "React",
+      "Node.js",
+      "Git",
+      "SQL",
+      "REST APIs",
+      "Agile"
+    ],
+    "missingKeywords": [
+      "System Design",
+      "CI/CD",
+      "AWS",
+      "Docker",
+      "Unit Testing",
+      "Kubernetes"
+    ],
+    "strengths": [
+      "Strong full-stack technical competency spanning both frontend and backend frameworks.",
+      "Demonstrated experience with modern programming languages and version control.",
+      "Clear alignment with core software development lifecycle (SDLC) phases."
+    ],
+    "improvements": [
+      "Quantify achievements in professional experience with specific metrics (e.g., page load times, efficiency gains).",
+      "Incorporate cloud platforms (AWS/GCP/Azure) and DevOps practices to better match modern Software Engineer requirements.",
+      "Simplify document formatting to ensure seamless ATS parsing, avoiding complex tables or multi-column layouts."
+    ]
+  },
+  {
+    "id": "report-1783415545682",
+    "fileName": "Resume-F.S.D.docx",
+    "jobTitle": "General Software Engineer",
+    "score": 82,
+    "date": "2026-07-07T09:12:25.682Z",
+    "matchPercentage": 85,
+    "structureGrade": "B",
+    "matchingKeywords": [
+      "JavaScript",
+      "Python",
+      "SQL",
+      "Git",
+      "Agile",
+      "REST APIs",
+      "Software Development"
+    ],
+    "missingKeywords": [
+      "CI/CD",
+      "Docker",
+      "AWS",
+      "Unit Testing",
+      "System Design"
+    ],
+    "strengths": [
+      "Strong technical stack covering both frontend and backend development",
+      "Clear demonstration of Agile methodology experience",
+      "Solid foundation in database management and API integration"
+    ],
+    "improvements": [
+      "Quantify project outcomes with measurable metrics (e.g., 'reduced latency by 20%')",
+      "Incorporate cloud platform experience (such as AWS, Azure, or GCP)",
+      "Ensure standard section headings are used to improve ATS parser compatibility"
+    ]
+  },
+  {
+    "id": "report-1783406395942",
+    "fileName": "Resume-F.S.D.docx",
+    "jobTitle": "General Software Engineer",
+    "score": 82,
+    "date": "2026-07-07T06:39:55.942Z",
+    "matchPercentage": 85,
+    "structureGrade": "B",
+    "matchingKeywords": [
+      "JavaScript",
+      "React",
+      "Node.js",
+      "SQL",
+      "Git",
+      "Agile",
+      "REST APIs",
+      "Software Development"
+    ],
+    "missingKeywords": [
+      "System Design",
+      "Data Structures",
+      "Algorithms",
+      "CI/CD",
+      "Docker",
+      "Unit Testing"
+    ],
+    "strengths": [
+      "Strong full-stack technical stack aligned with modern web development",
+      "Clear professional experience representation and logical career progression",
+      "Demonstrated experience with database management and API integration"
+    ],
+    "improvements": [
+      "Include core computer science concepts such as Data Structures, Algorithms, and System Design to appeal to general Software Engineering roles",
+      "Quantify achievements with impact metrics (e.g., page load speedups, percentage efficiency gains, scale of users handled)",
+      "Incorporate automated testing and devops terminology such as CI/CD pipelines, Docker, or Jest to show end-to-end ownership"
+    ]
+  },
+  {
+    "id": "report-fallback-1783354353055",
+    "fileName": "Resume-F.S.D.docx",
+    "jobTitle": "Software Engineer",
+    "score": 78,
+    "date": "2026-07-06T16:12:33.055Z",
+    "matchPercentage": 75,
+    "structureGrade": "B+",
+    "matchingKeywords": [
+      "React",
+      "JavaScript",
+      "HTML/CSS",
+      "Git"
+    ],
+    "missingKeywords": [
+      "Redux",
+      "Node.js",
+      "System Design"
+    ],
+    "strengths": [
+      "Clear layout and easily parsable structure.",
+      "Good use of action verbs in experience section.",
+      "Contact information is clearly visible."
+    ],
+    "improvements": [
+      "Quantify achievements with specific metrics (e.g., \"improved performance by 20%\").",
+      "Add more keywords from the job description to boost match rate.",
+      "Consider adding a short professional summary at the top."
+    ]
+  },
+  {
+    "id": "report-fallback-1783354318193",
+    "fileName": "Resume-F.S.D.docx",
+    "jobTitle": "hiii",
+    "score": 78,
+    "date": "2026-07-06T16:11:58.193Z",
+    "matchPercentage": 75,
+    "structureGrade": "B+",
+    "matchingKeywords": [
+      "React",
+      "JavaScript",
+      "HTML/CSS",
+      "Git"
+    ],
+    "missingKeywords": [
+      "Redux",
+      "Node.js",
+      "System Design"
+    ],
+    "strengths": [
+      "Clear layout and easily parsable structure.",
+      "Good use of action verbs in experience section.",
+      "Contact information is clearly visible."
+    ],
+    "improvements": [
+      "Quantify achievements with specific metrics (e.g., \"improved performance by 20%\").",
+      "Add more keywords from the job description to boost match rate.",
+      "Consider adding a short professional summary at the top."
+    ]
+  }
+]

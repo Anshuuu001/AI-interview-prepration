@@ -1,0 +1,380 @@
+[
+  {
+    "id": "act-sub-1784358113283",
+    "userId": "1",
+    "userEmail": "student@elevateai.com",
+    "templateId": "role-video-react",
+    "action": "submitted",
+    "details": "Interview submitted successfully. Integrity Score: 20%.",
+    "timestamp": 1784358113283
+  },
+  {
+    "id": "act-sub-1784358110169",
+    "userId": "1",
+    "userEmail": "student@elevateai.com",
+    "templateId": "role-video-react",
+    "action": "submitted",
+    "details": "Interview submitted successfully. Integrity Score: 20%.",
+    "timestamp": 1784358110169
+  },
+  {
+    "id": "act-warn-1784358090689",
+    "userId": "1",
+    "userEmail": "student@elevateai.com",
+    "templateId": "role-video-react",
+    "action": "tab_switched",
+    "details": "⚠️ Focus lost! Ensure you do not switch to another application or tab.",
+    "timestamp": 1784358090689
+  },
+  {
+    "id": "act-warn-1784358090633",
+    "userId": "1",
+    "userEmail": "student@elevateai.com",
+    "templateId": "role-video-react",
+    "action": "tab_switched",
+    "details": "⚠️ Focus lost! Ensure you do not switch to another application or tab.",
+    "timestamp": 1784358090633
+  },
+  {
+    "id": "act-warn-1784358085049",
+    "userId": "1",
+    "userEmail": "student@elevateai.com",
+    "templateId": "role-video-react",
+    "action": "tab_switched",
+    "details": "⚠️ Focus lost! Ensure you do not switch to another application or tab.",
+    "timestamp": 1784358085049
+  },
+  {
+    "id": "act-warn-1784358085004",
+    "userId": "1",
+    "userEmail": "student@elevateai.com",
+    "templateId": "role-video-react",
+    "action": "tab_switched",
+    "details": "⚠️ Focus lost! Ensure you do not switch to another application or tab.",
+    "timestamp": 1784358085004
+  },
+  {
+    "id": "act-warn-1784358080934",
+    "userId": "1",
+    "userEmail": "student@elevateai.com",
+    "templateId": "role-video-react",
+    "action": "suspicious_activity",
+    "details": "⚠️ Mouse left the assessment window. Please focus on the screen.",
+    "timestamp": 1784358080934
+  },
+  {
+    "id": "act-warn-1784358080908",
+    "userId": "1",
+    "userEmail": "student@elevateai.com",
+    "templateId": "role-video-react",
+    "action": "suspicious_activity",
+    "details": "⚠️ Mouse left the assessment window. Please focus on the screen.",
+    "timestamp": 1784358080908
+  },
+  {
+    "id": "act-warn-1784358080887",
+    "userId": "1",
+    "userEmail": "student@elevateai.com",
+    "templateId": "role-video-react",
+    "action": "tab_switched",
+    "details": "⚠️ Focus lost! Ensure you do not switch to another application or tab.",
+    "timestamp": 1784358080887
+  },
+  {
+    "id": "act-warn-1784358080858",
+    "userId": "1",
+    "userEmail": "student@elevateai.com",
+    "templateId": "role-video-react",
+    "action": "tab_switched",
+    "details": "⚠️ Focus lost! Ensure you do not switch to another application or tab.",
+    "timestamp": 1784358080858
+  },
+  {
+    "id": "act-warn-1784358072901",
+    "userId": "1",
+    "userEmail": "student@elevateai.com",
+    "templateId": "role-video-react",
+    "action": "suspicious_activity",
+    "details": "📋 Pasting is not allowed during the assessment.",
+    "timestamp": 1784358072901
+  },
+  {
+    "id": "act-warn-1784358072881",
+    "userId": "1",
+    "userEmail": "student@elevateai.com",
+    "templateId": "role-video-react",
+    "action": "suspicious_activity",
+    "details": "📋 Pasting is not allowed during the assessment.",
+    "timestamp": 1784358072881
+  },
+  {
+    "id": "act-1784358056490-s3x2kt6",
+    "userId": "1",
+    "userEmail": "student@elevateai.com",
+    "templateId": "role-video-react",
+    "action": "camera_verified",
+    "details": "Pre-interview verification checks passed.",
+    "timestamp": 1784358056490
+  },
+  {
+    "id": "act-1784358056282-b6b68iy",
+    "userId": "1",
+    "userEmail": "student@elevateai.com",
+    "templateId": "role-video-react",
+    "action": "login",
+    "details": "Interview session initiated, entering lobby.",
+    "timestamp": 1784358056282
+  },
+  {
+    "id": "act-sub-1784358022125",
+    "userId": "1",
+    "userEmail": "student@elevateai.com",
+    "templateId": "role-video-react",
+    "action": "submitted",
+    "details": "Interview submitted successfully. Integrity Score: 20%.",
+    "timestamp": 1784358022125
+  },
+  {
+    "id": "act-sub-1784358019994",
+    "userId": "1",
+    "userEmail": "student@elevateai.com",
+    "templateId": "role-video-react",
+    "action": "submitted",
+    "details": "Interview submitted successfully. Integrity Score: 20%.",
+    "timestamp": 1784358019994
+  },
+  {
+    "id": "act-warn-1784357796654",
+    "userId": "1",
+    "userEmail": "student@elevateai.com",
+    "templateId": "role-video-react",
+    "action": "suspicious_activity",
+    "details": "⚠️ Mouse left the assessment window. Please focus on the screen.",
+    "timestamp": 1784357796654
+  },
+  {
+    "id": "act-warn-1784357796563",
+    "userId": "1",
+    "userEmail": "student@elevateai.com",
+    "templateId": "role-video-react",
+    "action": "suspicious_activity",
+    "details": "⚠️ Mouse left the assessment window. Please focus on the screen.",
+    "timestamp": 1784357796563
+  },
+  {
+    "id": "act-warn-1784357796462",
+    "userId": "1",
+    "userEmail": "student@elevateai.com",
+    "templateId": "role-video-react",
+    "action": "tab_switched",
+    "details": "⚠️ Focus lost! Ensure you do not switch to another application or tab.",
+    "timestamp": 1784357796462
+  },
+  {
+    "id": "act-warn-1784357796413",
+    "userId": "1",
+    "userEmail": "student@elevateai.com",
+    "templateId": "role-video-react",
+    "action": "tab_switched",
+    "details": "⚠️ Focus lost! Ensure you do not switch to another application or tab.",
+    "timestamp": 1784357796413
+  },
+  {
+    "id": "act-warn-1784357790061",
+    "userId": "1",
+    "userEmail": "student@elevateai.com",
+    "templateId": "role-video-react",
+    "action": "tab_switched",
+    "details": "⚠️ Focus lost! Ensure you do not switch to another application or tab.",
+    "timestamp": 1784357790061
+  },
+  {
+    "id": "act-warn-1784357790037",
+    "userId": "1",
+    "userEmail": "student@elevateai.com",
+    "templateId": "role-video-react",
+    "action": "tab_switched",
+    "details": "⚠️ Focus lost! Ensure you do not switch to another application or tab.",
+    "timestamp": 1784357790037
+  },
+  {
+    "id": "act-warn-1784357785528",
+    "userId": "1",
+    "userEmail": "student@elevateai.com",
+    "templateId": "role-video-react",
+    "action": "tab_switched",
+    "details": "⚠️ Focus lost! Ensure you do not switch to another application or tab.",
+    "timestamp": 1784357785528
+  },
+  {
+    "id": "act-warn-1784357785500",
+    "userId": "1",
+    "userEmail": "student@elevateai.com",
+    "templateId": "role-video-react",
+    "action": "suspicious_activity",
+    "details": "⚠️ Mouse left the assessment window. Please focus on the screen.",
+    "timestamp": 1784357785500
+  },
+  {
+    "id": "act-warn-1784357785471",
+    "userId": "1",
+    "userEmail": "student@elevateai.com",
+    "templateId": "role-video-react",
+    "action": "suspicious_activity",
+    "details": "⚠️ Mouse left the assessment window. Please focus on the screen.",
+    "timestamp": 1784357785471
+  },
+  {
+    "id": "act-warn-1784357785420",
+    "userId": "1",
+    "userEmail": "student@elevateai.com",
+    "templateId": "role-video-react",
+    "action": "tab_switched",
+    "details": "⚠️ Focus lost! Ensure you do not switch to another application or tab.",
+    "timestamp": 1784357785420
+  },
+  {
+    "id": "act-1784357774144-wnosyvh",
+    "userId": "1",
+    "userEmail": "student@elevateai.com",
+    "templateId": "role-video-react",
+    "action": "camera_verified",
+    "details": "Pre-interview verification checks passed.",
+    "timestamp": 1784357774144
+  },
+  {
+    "id": "act-1784357773810-i483qa6",
+    "userId": "1",
+    "userEmail": "student@elevateai.com",
+    "templateId": "role-video-react",
+    "action": "login",
+    "details": "Interview session initiated, entering lobby.",
+    "timestamp": 1784357773810
+  },
+  {
+    "id": "act-sub-1784348429077",
+    "userId": "user-1783328715376",
+    "userEmail": "bansodansh18@gmail.com",
+    "templateId": "role-video-react",
+    "action": "submitted",
+    "details": "Interview submitted successfully. Integrity Score: 20%.",
+    "timestamp": 1784348429077
+  },
+  {
+    "id": "act-sub-1784348427545",
+    "userId": "user-1783328715376",
+    "userEmail": "bansodansh18@gmail.com",
+    "templateId": "role-video-react",
+    "action": "submitted",
+    "details": "Interview submitted successfully. Integrity Score: 20%.",
+    "timestamp": 1784348427545
+  },
+  {
+    "id": "act-warn-1784348423438",
+    "userId": "user-1783328715376",
+    "userEmail": "bansodansh18@gmail.com",
+    "templateId": "role-video-react",
+    "action": "suspicious_activity",
+    "details": "⚠️ Mouse left the assessment window. Please focus on the screen.",
+    "timestamp": 1784348423438
+  },
+  {
+    "id": "act-warn-1784348423268",
+    "userId": "user-1783328715376",
+    "userEmail": "bansodansh18@gmail.com",
+    "templateId": "role-video-react",
+    "action": "suspicious_activity",
+    "details": "⚠️ Mouse left the assessment window. Please focus on the screen.",
+    "timestamp": 1784348423268
+  },
+  {
+    "id": "act-warn-1784348423101",
+    "userId": "user-1783328715376",
+    "userEmail": "bansodansh18@gmail.com",
+    "templateId": "role-video-react",
+    "action": "tab_switched",
+    "details": "⚠️ Focus lost! Ensure you do not switch to another application or tab.",
+    "timestamp": 1784348423102
+  },
+  {
+    "id": "act-warn-1784348423073",
+    "userId": "user-1783328715376",
+    "userEmail": "bansodansh18@gmail.com",
+    "templateId": "role-video-react",
+    "action": "tab_switched",
+    "details": "⚠️ Focus lost! Ensure you do not switch to another application or tab.",
+    "timestamp": 1784348423073
+  },
+  {
+    "id": "act-warn-1784348417192",
+    "userId": "user-1783328715376",
+    "userEmail": "bansodansh18@gmail.com",
+    "templateId": "role-video-react",
+    "action": "suspicious_activity",
+    "details": "⚠️ Mouse left the assessment window. Please focus on the screen.",
+    "timestamp": 1784348417192
+  },
+  {
+    "id": "act-warn-1784348417166",
+    "userId": "user-1783328715376",
+    "userEmail": "bansodansh18@gmail.com",
+    "templateId": "role-video-react",
+    "action": "suspicious_activity",
+    "details": "⚠️ Mouse left the assessment window. Please focus on the screen.",
+    "timestamp": 1784348417166
+  },
+  {
+    "id": "act-warn-1784348416851",
+    "userId": "user-1783328715376",
+    "userEmail": "bansodansh18@gmail.com",
+    "templateId": "role-video-react",
+    "action": "tab_switched",
+    "details": "⚠️ Focus lost! Ensure you do not switch to another application or tab.",
+    "timestamp": 1784348416851
+  },
+  {
+    "id": "act-warn-1784348416821",
+    "userId": "user-1783328715376",
+    "userEmail": "bansodansh18@gmail.com",
+    "templateId": "role-video-react",
+    "action": "tab_switched",
+    "details": "⚠️ Focus lost! Ensure you do not switch to another application or tab.",
+    "timestamp": 1784348416821
+  },
+  {
+    "id": "act-warn-1784348412028",
+    "userId": "user-1783328715376",
+    "userEmail": "bansodansh18@gmail.com",
+    "templateId": "role-video-react",
+    "action": "suspicious_activity",
+    "details": "📋 Pasting is not allowed during the assessment.",
+    "timestamp": 1784348412028
+  },
+  {
+    "id": "act-warn-1784348412002",
+    "userId": "user-1783328715376",
+    "userEmail": "bansodansh18@gmail.com",
+    "templateId": "role-video-react",
+    "action": "suspicious_activity",
+    "details": "📋 Pasting is not allowed during the assessment.",
+    "timestamp": 1784348412002
+  },
+  {
+    "id": "act-1784348406778-4puldz9",
+    "userId": "user-1783328715376",
+    "userEmail": "bansodansh18@gmail.com",
+    "templateId": "role-video-react",
+    "action": "camera_verified",
+    "details": "Pre-interview verification checks passed.",
+    "timestamp": 1784348406778
+  },
+  {
+    "id": "act-1784348406674-2d41ivz",
+    "userId": "user-1783328715376",
+    "userEmail": "bansodansh18@gmail.com",
+    "templateId": "role-video-react",
+    "action": "login",
+    "details": "Interview session initiated, entering lobby.",
+    "timestamp": 1784348406674
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": "apt-1",
+    "category": "Quantitative",
+    "question": "A train 125 m long passes a man, running at 5 km/hr in the same direction in which the train is going, in 10 seconds. What is the speed of the train?",
+    "options": [
+      "45 km/hr",
+      "50 km/hr",
+      "54 km/hr",
+      "60 km/hr"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Speed of the train relative to man = 125/10 m/sec = 12.5 m/sec = 12.5 * 18/5 km/hr = 45 km/hr. Let speed of train be x. Relative speed = x - 5 = 45. Hence, x = 50 km/hr."
+  },
+  {
+    "id": "apt-2",
+    "category": "Quantitative",
+    "question": "If 20% of a = b, then b% of 20 is the same as:",
+    "options": [
+      "4% of a",
+      "5% of a",
+      "20% of a",
+      "None of these"
+    ],
+    "correctAnswer": 0,
+    "explanation": "20% of a = b ==> (20/100)*a = b. b% of 20 = (b/100)*20 = ((20*a/100)/100)*20 = (4/100)*a = 4% of a."
+  },
+  {
+    "id": "apt-3",
+    "category": "Logical",
+    "question": "Look at this series: 2, 1, (1/2), (1/4), ... What number should come next?",
+    "options": [
+      "1/3",
+      "1/8",
+      "2/8",
+      "1/16"
+    ],
+    "correctAnswer": 1,
+    "explanation": "This is a simple division series; each number is one-half of the previous number. 1/4 divided by 2 is 1/8."
+  },
+  {
+    "id": "apt-4",
+    "category": "Logical",
+    "question": "Which word does NOT belong with the others?",
+    "options": [
+      "Parsley",
+      "Basil",
+      "Dill",
+      "Mayonnaise"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Parsley, basil, and dill are herbs. Mayonnaise is a condiment."
+  },
+  {
+    "id": "apt-5",
+    "category": "Verbal",
+    "question": "Select the synonym of \"ABANDON\":",
+    "options": [
+      "Forsake",
+      "Keep",
+      "Cherish",
+      "Pursue"
+    ],
+    "correctAnswer": 0,
+    "explanation": "To abandon means to leave behind or run away from. \"Forsake\" is a direct synonym."
+  },
+  {
+    "id": "apt-6",
+    "category": "CS Fundamentals",
+    "question": "Which of the following sorting algorithms has the best worst-case time complexity?",
+    "options": [
+      "Bubble Sort",
+      "Insertion Sort",
+      "Quick Sort",
+      "Merge Sort"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Merge Sort has a worst-case time complexity of O(n log n), while Quick Sort has O(n^2) and Bubble/Insertion have O(n^2)."
+  },
+  {
+    "id": "apt-7",
+    "category": "Quantitative",
+    "question": "The sum of ages of 5 children born at the intervals of 3 years each is 50 years. What is the age of the youngest child?",
+    "options": [
+      "4 years",
+      "8 years",
+      "10 years",
+      "None of these"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Let the ages be x, x+3, x+6, x+9, x+12. Sum = 5x + 30 = 50. 5x = 20, so x = 4."
+  },
+  {
+    "id": "apt-8",
+    "category": "CS Fundamentals",
+    "question": "Which data structure is typically used to implement a priority queue?",
+    "options": [
+      "Stack",
+      "Linked List",
+      "Heap",
+      "Array"
+    ],
+    "correctAnswer": 2,
+    "explanation": "A heap (min-heap or max-heap) provides efficient O(log n) insertions and deletions, making it ideal for priority queues."
+  },
+  {
+    "id": "apt-9",
+    "category": "Logical",
+    "question": "SCD, TEF, UGH, ____, WKL",
+    "options": [
+      "CMN",
+      "UJI",
+      "VIJ",
+      "IJT"
+    ],
+    "correctAnswer": 2,
+    "explanation": "First letters: S, T, U, V, W. Second letters: C, E, G, I, K. Third letters: D, F, H, J, L. Result is VIJ."
+  },
+  {
+    "id": "apt-10",
+    "category": "Verbal",
+    "question": "Choose the word which is the exact OPPOSITE of the word 'ENORMOUS':",
+    "options": [
+      "Soft",
+      "Average",
+      "Tiny",
+      "Weak"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Enormous means very large in size. Tiny means very small."
+  }
+]

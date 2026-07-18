@@ -1,0 +1,418 @@
+[
+  {
+    "id": "role-react",
+    "title": "Frontend Engineer (React)",
+    "category": "Frontend",
+    "difficulty": "Intermediate",
+    "description": "Focuses on React components, lifecycle, hooks, state management, and performance.",
+    "questions": [
+      {
+        "id": "q-react-11",
+        "text": "Explain how React handles event delegation under the hood."
+      },
+      {
+        "id": "q-react-14",
+        "text": "How do you implement code-splitting in React using dynamic imports and React.lazy?"
+      },
+      {
+        "id": "q-react-1",
+        "text": "Explain the difference between functional and class components in React. Why did React introduce Hooks?"
+      },
+      {
+        "id": "q-react-8",
+        "text": "Explain the React reconciliation process and the role of the \"key\" prop in lists."
+      },
+      {
+        "id": "q-react-2",
+        "text": "How does React Virtual DOM work under the hood, and what are the main benefits?"
+      }
+    ]
+  },
+  {
+    "id": "role-video-react",
+    "title": "Frontend Proctored (React)",
+    "category": "Frontend Video",
+    "difficulty": "Advanced",
+    "isVideo": true,
+    "description": "Live video proctored interview assessing advanced React architecture, state management, and performance.",
+    "questions": [
+      {
+        "id": "q-vid-react-1",
+        "text": "How do you structure a large scale React application for maintainability?"
+      },
+      {
+        "id": "q-vid-react-2",
+        "text": "Can you walk me through how you would implement server-side rendering in a React application?"
+      },
+      {
+        "id": "q-vid-react-5",
+        "text": "How do you handle routing and code splitting in a complex React SPA?"
+      },
+      {
+        "id": "q-vid-react-7",
+        "text": "How do you optimize state transitions in React to prevent unnecessary child component re-renders?"
+      },
+      {
+        "id": "q-vid-react-6",
+        "text": "Explain the concept of compound components in React and give a production example."
+      }
+    ]
+  },
+  {
+    "id": "role-node",
+    "title": "Backend Engineer (Node/Express)",
+    "category": "Backend",
+    "difficulty": "Advanced",
+    "description": "Covers event loop, asynchronous design patterns, RESTful design, and security.",
+    "questions": [
+      {
+        "id": "q-node-9",
+        "text": "Describe your strategy for centralized error handling and logging in a microservices architecture."
+      },
+      {
+        "id": "q-node-8",
+        "text": "What are the pros and cons of using GraphQL over REST for a Node.js backend?"
+      },
+      {
+        "id": "q-node-14",
+        "text": "Explain how middleware execution order and flow control works in Express.js."
+      },
+      {
+        "id": "q-node-10",
+        "text": "How does JWT authentication work, and how do you handle token revocation?"
+      },
+      {
+        "id": "q-node-7",
+        "text": "How would you design a rate-limiting middleware for an Express API?"
+      }
+    ]
+  },
+  {
+    "id": "role-hr",
+    "title": "HR & Behavioral Round",
+    "category": "Behavioral",
+    "difficulty": "Beginner",
+    "description": "General HR behavioral questions assessing cultural fit, conflict resolution, and leadership.",
+    "questions": [
+      {
+        "id": "q-hr-12",
+        "text": "How do you proactively stay updated with the latest technological developments and frameworks?"
+      },
+      {
+        "id": "q-hr-13",
+        "text": "Describe your process for prioritizing tasks when everything seems urgent and high priority."
+      },
+      {
+        "id": "q-hr-6",
+        "text": "Describe a situation where you had to quickly learn a new technology or concept."
+      },
+      {
+        "id": "q-hr-14",
+        "text": "How do you manage stress or prevent burnout during highly demanding release cycles?"
+      },
+      {
+        "id": "q-hr-10",
+        "text": "Describe a time when you had to explain a complex technical concept to a non-technical stakeholder."
+      }
+    ]
+  },
+  {
+    "id": "role-sys-design",
+    "title": "System Architect",
+    "category": "System Design",
+    "difficulty": "Expert",
+    "description": "Advanced systems architecture, scaling databases, caching strategy, microservices, and high-availability designs.",
+    "questions": [
+      {
+        "id": "q-sys-11",
+        "text": "Explain the difference between SQL and NoSQL databases. When do you use each architecture?"
+      },
+      {
+        "id": "q-sys-5",
+        "text": "How would you architect a real-time collaborative document editor like Google Docs?"
+      },
+      {
+        "id": "q-sys-7",
+        "text": "Design a ride-sharing service like Uber. Focus on the dispatcher service and geospatial querying."
+      },
+      {
+        "id": "q-sys-15",
+        "text": "How do you handle API versioning at scale without breaking client implementations?"
+      },
+      {
+        "id": "q-sys-13",
+        "text": "How do you design a system for high availability and disaster recovery across multiple regions?"
+      }
+    ]
+  },
+  {
+    "id": "vid-hr",
+    "title": "HR Interview",
+    "category": "HR",
+    "difficulty": "General",
+    "isVideo": true,
+    "description": "General behavioral and cultural fit questions for any role.",
+    "questions": [
+      {
+        "id": "v-hr-6",
+        "text": "What motivates you most in a professional workspace environment?"
+      },
+      {
+        "id": "v-hr-1",
+        "text": "Tell me about a time you handled a difficult situation with a coworker."
+      },
+      {
+        "id": "v-hr-2",
+        "text": "What is your greatest strength and your greatest weakness?"
+      },
+      {
+        "id": "v-hr-5",
+        "text": "Describe a time you showed leadership."
+      },
+      {
+        "id": "v-hr-10",
+        "text": "How do you manage professional pressure and tight production deadlines?"
+      }
+    ]
+  },
+  {
+    "id": "vid-java",
+    "title": "Java",
+    "category": "Backend",
+    "difficulty": "Intermediate",
+    "isVideo": true,
+    "description": "Technical questions covering core Java, JVM, multithreading, and OOP.",
+    "questions": [
+      {
+        "id": "v-java-3",
+        "text": "What is the difference between an abstract class and an interface?"
+      },
+      {
+        "id": "v-java-2",
+        "text": "How does garbage collection work in Java?"
+      },
+      {
+        "id": "v-java-8",
+        "text": "Explain the difference between fail-fast and fail-safe iterators in collections."
+      },
+      {
+        "id": "v-java-7",
+        "text": "What is the Java Reflection API and in what scenarios would you use it?"
+      },
+      {
+        "id": "v-java-6",
+        "text": "Explain the difference between final, finally, and finalize keywords in Java."
+      }
+    ]
+  },
+  {
+    "id": "vid-c",
+    "title": "C Programming",
+    "category": "Systems",
+    "difficulty": "Intermediate",
+    "isVideo": true,
+    "description": "Core concepts in C including pointers, memory management, and data structures.",
+    "questions": [
+      {
+        "id": "v-c-1",
+        "text": "Explain the difference between malloc() and calloc()."
+      },
+      {
+        "id": "v-c-8",
+        "text": "Explain the difference between stack and heap memory allocation in C."
+      },
+      {
+        "id": "v-c-2",
+        "text": "What is a pointer to a pointer in C?"
+      },
+      {
+        "id": "v-c-4",
+        "text": "What is the purpose of the volatile keyword?"
+      },
+      {
+        "id": "v-c-6",
+        "text": "Explain the differences between a struct and a union in C."
+      }
+    ]
+  },
+  {
+    "id": "vid-python",
+    "title": "Python",
+    "category": "General",
+    "difficulty": "Intermediate",
+    "isVideo": true,
+    "description": "Python fundamentals, data structures, decorators, and memory management.",
+    "questions": [
+      {
+        "id": "v-py-5",
+        "text": "How is memory managed in Python?"
+      },
+      {
+        "id": "v-py-4",
+        "text": "Explain list comprehensions with an example."
+      },
+      {
+        "id": "v-py-3",
+        "text": "How do decorators work in Python?"
+      },
+      {
+        "id": "v-py-8",
+        "text": "How do generators work in Python and why are they memory efficient?"
+      },
+      {
+        "id": "v-py-2",
+        "text": "What is the Global Interpreter Lock (GIL)?"
+      }
+    ]
+  },
+  {
+    "id": "vid-html",
+    "title": "HTML",
+    "category": "Frontend",
+    "difficulty": "Beginner",
+    "isVideo": true,
+    "description": "HTML5 features, semantics, accessibility, and DOM structure.",
+    "questions": [
+      {
+        "id": "v-html-8",
+        "text": "How do you use meta tags for SEO and responsive display viewport configuration?"
+      },
+      {
+        "id": "v-html-4",
+        "text": "What is the purpose of the data-* attribute?"
+      },
+      {
+        "id": "v-html-10",
+        "text": "What is semantic HTML and how does it help accessibility?"
+      },
+      {
+        "id": "v-html-6",
+        "text": "What is the difference between HTML and XHTML?"
+      },
+      {
+        "id": "v-html-3",
+        "text": "How do you ensure a webpage is accessible for screen readers?"
+      }
+    ]
+  },
+  {
+    "id": "vid-css",
+    "title": "CSS",
+    "category": "Frontend",
+    "difficulty": "Intermediate",
+    "isVideo": true,
+    "description": "CSS Box Model, layout models (Flexbox/Grid), animations, and responsive design.",
+    "questions": [
+      {
+        "id": "v-css-2",
+        "text": "What is the difference between Flexbox and CSS Grid?"
+      },
+      {
+        "id": "v-css-5",
+        "text": "Describe approaches to making a website responsive without media queries."
+      },
+      {
+        "id": "v-css-1",
+        "text": "Explain the CSS Box Model."
+      },
+      {
+        "id": "v-css-6",
+        "text": "Explain the difference between absolute, relative, fixed, and sticky positioning."
+      },
+      {
+        "id": "v-css-4",
+        "text": "What are pseudo-classes and pseudo-elements?"
+      }
+    ]
+  },
+  {
+    "id": "vid-javascript",
+    "title": "JavaScript",
+    "category": "Frontend",
+    "difficulty": "Intermediate",
+    "isVideo": true,
+    "description": "Core JS concepts: closures, promises, event loop, and ES6+ features.",
+    "questions": [
+      {
+        "id": "v-js-4",
+        "text": "Explain the difference between let, const, and var."
+      },
+      {
+        "id": "v-js-8",
+        "text": "How do Promises work and how do they compare to Async/Await?"
+      },
+      {
+        "id": "v-js-5",
+        "text": "What is event bubbling and how can you stop it?"
+      },
+      {
+        "id": "v-js-6",
+        "text": "Explain the difference between call, apply, and bind."
+      },
+      {
+        "id": "v-js-3",
+        "text": "How does the event loop handle asynchronous operations?"
+      }
+    ]
+  },
+  {
+    "id": "vid-webdev",
+    "title": "Web Development",
+    "category": "Fullstack",
+    "difficulty": "Intermediate",
+    "isVideo": true,
+    "description": "General web architecture, REST APIs, HTTP protocols, and security.",
+    "questions": [
+      {
+        "id": "v-web-1",
+        "text": "Explain the difference between HTTP and HTTPS."
+      },
+      {
+        "id": "v-web-8",
+        "text": "How does client-side caching work using ETag and Cache-Control headers?"
+      },
+      {
+        "id": "v-web-2",
+        "text": "What is a RESTful API and what are its core principles?"
+      },
+      {
+        "id": "v-web-6",
+        "text": "What is DOM and how does browser render HTML pages?"
+      },
+      {
+        "id": "v-web-9",
+        "text": "What is DNS and how does it resolve domain names to IP addresses?"
+      }
+    ]
+  },
+  {
+    "id": "vid-auth",
+    "title": "Authentication",
+    "category": "Security",
+    "difficulty": "Advanced",
+    "isVideo": true,
+    "description": "OAuth, JWTs, session management, and securing web applications.",
+    "questions": [
+      {
+        "id": "v-auth-6",
+        "text": "What is single sign-on (SSO) and how does it work?"
+      },
+      {
+        "id": "v-auth-4",
+        "text": "How do you securely store passwords in a database?"
+      },
+      {
+        "id": "v-auth-9",
+        "text": "Explain the difference between OAuth2 and SAML."
+      },
+      {
+        "id": "v-auth-10",
+        "text": "What is CSRF token validation and why is it required for secure forms?"
+      },
+      {
+        "id": "v-auth-3",
+        "text": "Describe the OAuth 2.0 flow."
+      }
+    ]
+  }
+]

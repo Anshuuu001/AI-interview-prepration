@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Translation Key Inspector</title>
+  <style>
+    body { font-family: monospace; padding: 20px; background: #0f172a; color: #f1f5f9; }
+    h1 { color: #38bdf8; }
+    pre { background: #1e293b; padding: 15px; border-radius: 8px; border: 1px solid #334155; }
+  </style>
+</head>
+<body>
+  <h1>Translation Key Mismatches</h1>
+  <div id="output">Running inspection...</div>
+
+  <script type="module">
+    import { translations } from './src/utils/translations.js';
+
+    const englishKeys = Object.keys(translations.english);
+    const hindiKeys = Object.keys(translations.hindi);
+    const marathiKeys = Object.keys(translations.marathi);
+
+    let html = '';
+
+    html += `English keys: ${englishKeys.length}\n`;
+    html += `Hindi keys: ${hindiKeys.length}\n`;
+    html += `Marathi keys: ${marathiKeys.length}\n\n`;
+
+    const getDiff = (keys1, keys2, name1, name2) => {
+      const diff = keys1.filter(k => !keys2.includes(k));
+      if (diff.length > 0) {
+        return `Keys in ${name1} but missing in ${name2}:\n${diff.map(k => `  - ${k}`).join('\n')}\n\n`;
+      }
+      return `All ${name1} keys are present in ${name2}.\n\n`;
+    };
+
+    html += getDiff(englishKeys, hindiKeys, 'English', 'Hindi');
+    html += getDiff(englishKeys, marathiKeys, 'English', 'Marathi');
+    
+    html += getDiff(hindiKeys, englishKeys, 'Hindi', 'English');
+    html += getDiff(hindiKeys, marathiKeys, 'Hindi', 'Marathi');
+
+    html += getDiff(marathiKeys, englishKeys, 'Marathi', 'English');
+    html += getDiff(marathiKeys, hindiKeys, 'Marathi', 'Hindi');
+
+    document.getElementById('output').innerHTML = '<pre>' + html + '</pre>';
+  </script>
+</body>
+</html>

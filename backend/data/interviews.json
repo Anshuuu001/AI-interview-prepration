@@ -1,0 +1,526 @@
+[
+  {
+    "id": "int-report-1784358113273",
+    "userId": "1",
+    "userName": "Alex Johnson",
+    "userEmail": "student@elevateai.com",
+    "roleTitle": "Frontend Proctored (React)",
+    "date": "2026-07-18T07:01:53.273Z",
+    "duration": 43,
+    "overallScore": 0,
+    "technicalScore": 5,
+    "behavioralScore": 0,
+    "presenceScore": 100,
+    "integrityScore": 20,
+    "warningsCount": 20,
+    "cheatingRisk": "Critical",
+    "feedback": "Gemini AI Evaluation — Score: 0%. Integrity Score: 20% (Critical risk).",
+    "qaList": []
+  },
+  {
+    "id": "int-report-1784358110160",
+    "userId": "1",
+    "userName": "Alex Johnson",
+    "userEmail": "student@elevateai.com",
+    "roleTitle": "Frontend Proctored (React)",
+    "date": "2026-07-18T07:01:50.160Z",
+    "duration": 43,
+    "overallScore": 0,
+    "technicalScore": 5,
+    "behavioralScore": 0,
+    "presenceScore": 100,
+    "integrityScore": 20,
+    "warningsCount": 20,
+    "cheatingRisk": "Critical",
+    "feedback": "Gemini AI Evaluation — Score: 0%. Integrity Score: 20% (Critical risk).",
+    "qaList": []
+  },
+  {
+    "id": "int-report-1784358022113",
+    "userId": "1",
+    "userName": "Alex Johnson",
+    "userEmail": "student@elevateai.com",
+    "roleTitle": "Frontend Proctored (React)",
+    "date": "2026-07-18T07:00:22.113Z",
+    "duration": 40,
+    "overallScore": 0,
+    "technicalScore": 5,
+    "behavioralScore": 0,
+    "presenceScore": 100,
+    "integrityScore": 20,
+    "warningsCount": 10,
+    "cheatingRisk": "Critical",
+    "feedback": "Gemini AI Evaluation — Score: 0%. Integrity Score: 20% (Critical risk).",
+    "qaList": []
+  },
+  {
+    "id": "int-report-1784358019986",
+    "userId": "1",
+    "userName": "Alex Johnson",
+    "userEmail": "student@elevateai.com",
+    "roleTitle": "Frontend Proctored (React)",
+    "date": "2026-07-18T07:00:19.986Z",
+    "duration": 40,
+    "overallScore": 0,
+    "technicalScore": 5,
+    "behavioralScore": 0,
+    "presenceScore": 100,
+    "integrityScore": 20,
+    "warningsCount": 10,
+    "cheatingRisk": "Critical",
+    "feedback": "Gemini AI Evaluation — Score: 0%. Integrity Score: 20% (Critical risk).",
+    "qaList": []
+  },
+  {
+    "id": "int-report-1784348429071",
+    "userId": "user-1783328715376",
+    "userName": "『TM』Ansh Bansod",
+    "userEmail": "bansodansh18@gmail.com",
+    "roleTitle": "Frontend Proctored (React)",
+    "date": "2026-07-18T04:20:29.071Z",
+    "duration": 29,
+    "overallScore": 0,
+    "technicalScore": 5,
+    "behavioralScore": 0,
+    "presenceScore": 100,
+    "integrityScore": 20,
+    "warningsCount": 10,
+    "cheatingRisk": "Critical",
+    "feedback": "Gemini AI Evaluation — Score: 0%. Integrity Score: 20% (Critical risk).",
+    "qaList": []
+  },
+  {
+    "id": "int-report-1784348427540",
+    "userId": "user-1783328715376",
+    "userName": "『TM』Ansh Bansod",
+    "userEmail": "bansodansh18@gmail.com",
+    "roleTitle": "Frontend Proctored (React)",
+    "date": "2026-07-18T04:20:27.540Z",
+    "duration": 29,
+    "overallScore": 0,
+    "technicalScore": 5,
+    "behavioralScore": 0,
+    "presenceScore": 100,
+    "integrityScore": 20,
+    "warningsCount": 10,
+    "cheatingRisk": "Critical",
+    "feedback": "Gemini AI Evaluation — Score: 0%. Integrity Score: 20% (Critical risk).",
+    "qaList": []
+  },
+  {
+    "id": "int-report-1783415437836",
+    "roleTitle": "Frontend Engineer (React)",
+    "date": "2026-07-07T09:10:37.836Z",
+    "duration": 3,
+    "overallScore": 35,
+    "technicalScore": 40,
+    "behavioralScore": 30,
+    "presenceScore": 100,
+    "feedback": "Gemini AI Evaluation — Score: 35%.",
+    "qaList": [
+      {
+        "question": "What is the purpose of useEffect cleanups, and how do you prevent memory leaks when dealing with web socket subscriptions?",
+        "userAnswer": "opiuiyugg",
+        "technicalKnowledge": "Answer was too brief or AI evaluation failed.",
+        "communication": "Unable to assess communication effectively.",
+        "suggestions": "Provide a detailed, technical answer with examples.",
+        "correctness": "0%",
+        "score": 35
+      },
+      {
+        "question": "How does React Virtual DOM work under the hood, and what are the main benefits?",
+        "userAnswer": "-0987tuy",
+        "technicalKnowledge": "Answer was too brief or AI evaluation failed.",
+        "communication": "Unable to assess communication effectively.",
+        "suggestions": "Provide a detailed, technical answer with examples.",
+        "correctness": "0%",
+        "score": 35
+      },
+      {
+        "question": "Describe the differences between useMemo, useCallback, and React.memo.",
+        "userAnswer": "iuytd",
+        "technicalKnowledge": "Answer was too brief or AI evaluation failed.",
+        "communication": "Unable to assess communication effectively.",
+        "suggestions": "Provide a detailed, technical answer with examples.",
+        "correctness": "0%",
+        "score": 35
+      },
+      {
+        "question": "Explain the React reconciliation process and the role of the \"key\" prop in lists.",
+        "userAnswer": "i9uyitgfh",
+        "technicalKnowledge": "Answer was too brief or AI evaluation failed.",
+        "communication": "Unable to assess communication effectively.",
+        "suggestions": "Provide a detailed, technical answer with examples.",
+        "correctness": "0%",
+        "score": 35
+      },
+      {
+        "question": "What is the purpose of useEffect cleanups, and how do you prevent memory leaks when dealing with web socket subscriptions?",
+        "userAnswer": "iuyitut",
+        "technicalKnowledge": "Answer was too brief or AI evaluation failed.",
+        "communication": "Unable to assess communication effectively.",
+        "suggestions": "Provide a detailed, technical answer with examples.",
+        "correctness": "0%",
+        "score": 35
+      }
+    ]
+  },
+  {
+    "id": "int-report-1783409958709",
+    "roleTitle": "Frontend Proctored (React)",
+    "date": "2026-07-07T07:39:18.709Z",
+    "duration": 20,
+    "overallScore": 0,
+    "technicalScore": 5,
+    "behavioralScore": 0,
+    "presenceScore": 37,
+    "feedback": "Gemini AI Evaluation — Score: 0%.",
+    "qaList": []
+  },
+  {
+    "id": "int-report-1783409956837",
+    "roleTitle": "Frontend Proctored (React)",
+    "date": "2026-07-07T07:39:16.837Z",
+    "duration": 20,
+    "overallScore": 0,
+    "technicalScore": 5,
+    "behavioralScore": 0,
+    "presenceScore": 37,
+    "feedback": "Gemini AI Evaluation — Score: 0%.",
+    "qaList": []
+  },
+  {
+    "id": "int-report-1783409945615",
+    "roleTitle": "Frontend Proctored (React)",
+    "date": "2026-07-07T07:39:05.615Z",
+    "duration": 20,
+    "overallScore": 0,
+    "technicalScore": 5,
+    "behavioralScore": 0,
+    "presenceScore": 36,
+    "feedback": "Gemini AI Evaluation — Score: 0%.",
+    "qaList": []
+  },
+  {
+    "id": "int-report-1783409941711",
+    "roleTitle": "Frontend Proctored (React)",
+    "date": "2026-07-07T07:39:01.711Z",
+    "duration": 20,
+    "overallScore": 0,
+    "technicalScore": 5,
+    "behavioralScore": 0,
+    "presenceScore": 37,
+    "feedback": "Gemini AI Evaluation — Score: 0%.",
+    "qaList": []
+  },
+  {
+    "id": "int-report-1783335747711",
+    "roleTitle": "HTML",
+    "date": "2026-07-06T11:02:27.712Z",
+    "duration": 14,
+    "overallScore": 35,
+    "technicalScore": 40,
+    "behavioralScore": 30,
+    "presenceScore": 66,
+    "feedback": "Gemini AI Evaluation — Score: 35%.",
+    "qaList": [
+      {
+        "question": "What is the purpose of the data-* attribute?",
+        "userAnswer": "[Timeout: No Answer]",
+        "aiFeedback": "Answer was too brief or AI evaluation failed.",
+        "suggestedAnswer": "Provide a detailed, technical answer with examples.",
+        "score": 35
+      }
+    ]
+  },
+  {
+    "id": "int-report-1783335747684",
+    "roleTitle": "HTML",
+    "date": "2026-07-06T11:02:27.684Z",
+    "duration": 14,
+    "overallScore": 35,
+    "technicalScore": 40,
+    "behavioralScore": 30,
+    "presenceScore": 66,
+    "feedback": "Gemini AI Evaluation — Score: 35%.",
+    "qaList": [
+      {
+        "question": "What is the purpose of the data-* attribute?",
+        "userAnswer": "[Timeout: No Answer]",
+        "aiFeedback": "Answer was too brief or AI evaluation failed.",
+        "suggestedAnswer": "Provide a detailed, technical answer with examples.",
+        "score": 35
+      }
+    ]
+  },
+  {
+    "id": "int-report-1783335747661",
+    "roleTitle": "HTML",
+    "date": "2026-07-06T11:02:27.661Z",
+    "duration": 14,
+    "overallScore": 35,
+    "technicalScore": 40,
+    "behavioralScore": 30,
+    "presenceScore": 66,
+    "feedback": "Gemini AI Evaluation — Score: 35%.",
+    "qaList": [
+      {
+        "question": "What is the purpose of the data-* attribute?",
+        "userAnswer": "[Timeout: No Answer]",
+        "aiFeedback": "Answer was too brief or AI evaluation failed.",
+        "suggestedAnswer": "Provide a detailed, technical answer with examples.",
+        "score": 35
+      }
+    ]
+  },
+  {
+    "id": "int-report-1783335747646",
+    "roleTitle": "HTML",
+    "date": "2026-07-06T11:02:27.646Z",
+    "duration": 14,
+    "overallScore": 35,
+    "technicalScore": 40,
+    "behavioralScore": 30,
+    "presenceScore": 66,
+    "feedback": "Gemini AI Evaluation — Score: 35%.",
+    "qaList": [
+      {
+        "question": "What is the purpose of the data-* attribute?",
+        "userAnswer": "[Timeout: No Answer]",
+        "aiFeedback": "Answer was too brief or AI evaluation failed.",
+        "suggestedAnswer": "Provide a detailed, technical answer with examples.",
+        "score": 35
+      }
+    ]
+  },
+  {
+    "id": "int-report-1783335747626",
+    "roleTitle": "HTML",
+    "date": "2026-07-06T11:02:27.626Z",
+    "duration": 14,
+    "overallScore": 35,
+    "technicalScore": 40,
+    "behavioralScore": 30,
+    "presenceScore": 66,
+    "feedback": "Gemini AI Evaluation — Score: 35%.",
+    "qaList": [
+      {
+        "question": "What is the purpose of the data-* attribute?",
+        "userAnswer": "[Timeout: No Answer]",
+        "aiFeedback": "Answer was too brief or AI evaluation failed.",
+        "suggestedAnswer": "Provide a detailed, technical answer with examples.",
+        "score": 35
+      }
+    ]
+  },
+  {
+    "id": "int-report-1783335747587",
+    "roleTitle": "HTML",
+    "date": "2026-07-06T11:02:27.587Z",
+    "duration": 14,
+    "overallScore": 35,
+    "technicalScore": 40,
+    "behavioralScore": 30,
+    "presenceScore": 66,
+    "feedback": "Gemini AI Evaluation — Score: 35%.",
+    "qaList": [
+      {
+        "question": "What is the purpose of the data-* attribute?",
+        "userAnswer": "[Timeout: No Answer]",
+        "aiFeedback": "Answer was too brief or AI evaluation failed.",
+        "suggestedAnswer": "Provide a detailed, technical answer with examples.",
+        "score": 35
+      }
+    ]
+  },
+  {
+    "id": "int-report-1783335270105",
+    "roleTitle": "HR Interview",
+    "date": "2026-07-06T10:54:30.105Z",
+    "duration": 0,
+    "overallScore": 35,
+    "technicalScore": 40,
+    "behavioralScore": 30,
+    "presenceScore": 100,
+    "feedback": "Gemini AI Evaluation — Score: 35%.",
+    "qaList": [
+      {
+        "question": "Describe a time you showed leadership.",
+        "userAnswer": "[Skipped by Candidate]",
+        "aiFeedback": "Answer was too brief or AI evaluation failed.",
+        "suggestedAnswer": "Provide a detailed, technical answer with examples.",
+        "score": 35
+      },
+      {
+        "question": "What is your greatest strength and your greatest weakness?",
+        "userAnswer": "[Skipped by Candidate]",
+        "aiFeedback": "Answer was too brief or AI evaluation failed.",
+        "suggestedAnswer": "Provide a detailed, technical answer with examples.",
+        "score": 35
+      },
+      {
+        "question": "What is your greatest strength and your greatest weakness?",
+        "userAnswer": "[Skipped by Candidate]",
+        "aiFeedback": "Answer was too brief or AI evaluation failed.",
+        "suggestedAnswer": "Provide a detailed, technical answer with examples.",
+        "score": 35
+      },
+      {
+        "question": "Describe a time you showed leadership.",
+        "userAnswer": "[Skipped by Candidate]",
+        "aiFeedback": "Answer was too brief or AI evaluation failed.",
+        "suggestedAnswer": "Provide a detailed, technical answer with examples.",
+        "score": 35
+      },
+      {
+        "question": "Why are you leaving your current role?",
+        "userAnswer": "[Skipped by Candidate]",
+        "aiFeedback": "Answer was too brief or AI evaluation failed.",
+        "suggestedAnswer": "Provide a detailed, technical answer with examples.",
+        "score": 35
+      }
+    ]
+  },
+  {
+    "id": "int-report-1783334109026",
+    "roleTitle": "Frontend Proctored (React)",
+    "date": "2026-07-06T10:35:09.026Z",
+    "duration": 62,
+    "overallScore": 0,
+    "technicalScore": 5,
+    "behavioralScore": 0,
+    "feedback": "Gemini AI Evaluation — Score: 0%.",
+    "qaList": []
+  },
+  {
+    "id": "int-report-1783334109011",
+    "roleTitle": "Frontend Proctored (React)",
+    "date": "2026-07-06T10:35:09.012Z",
+    "duration": 62,
+    "overallScore": 0,
+    "technicalScore": 5,
+    "behavioralScore": 0,
+    "feedback": "Gemini AI Evaluation — Score: 0%.",
+    "qaList": []
+  },
+  {
+    "id": "int-report-1783323636749",
+    "roleTitle": "Frontend Engineer (React)",
+    "date": "2026-07-06T07:40:36.749Z",
+    "duration": 4,
+    "overallScore": 35,
+    "technicalScore": 40,
+    "behavioralScore": 30,
+    "feedback": "Gemini AI Evaluation — Score: 35%.",
+    "qaList": [
+      {
+        "question": "How do you optimize the performance of a React application with a very large list of data?",
+        "userAnswer": "dtryu",
+        "aiFeedback": "Answer was too brief or AI evaluation failed.",
+        "suggestedAnswer": "Provide a detailed, technical answer with examples.",
+        "score": 35
+      },
+      {
+        "question": "What is the purpose of useEffect cleanups, and how do you prevent memory leaks when dealing with web socket subscriptions?",
+        "userAnswer": "tdrytfyugui",
+        "aiFeedback": "Answer was too brief or AI evaluation failed.",
+        "suggestedAnswer": "Provide a detailed, technical answer with examples.",
+        "score": 35
+      },
+      {
+        "question": "Describe the differences between useMemo, useCallback, and React.memo.",
+        "userAnswer": "wetryu",
+        "aiFeedback": "Answer was too brief or AI evaluation failed.",
+        "suggestedAnswer": "Provide a detailed, technical answer with examples.",
+        "score": 35
+      },
+      {
+        "question": "How does React Virtual DOM work under the hood, and what are the main benefits?",
+        "userAnswer": "ewrtyu",
+        "aiFeedback": "Answer was too brief or AI evaluation failed.",
+        "suggestedAnswer": "Provide a detailed, technical answer with examples.",
+        "score": 35
+      },
+      {
+        "question": "How does React Virtual DOM work under the hood, and what are the main benefits?",
+        "userAnswer": "sdrtfgh",
+        "aiFeedback": "Answer was too brief or AI evaluation failed.",
+        "suggestedAnswer": "Provide a detailed, technical answer with examples.",
+        "score": 35
+      }
+    ]
+  },
+  {
+    "id": "int-report-1783245313005",
+    "roleTitle": "System Architect",
+    "date": "2026-07-05T09:55:13.005Z",
+    "duration": 0,
+    "overallScore": 35,
+    "technicalScore": 40,
+    "behavioralScore": 30,
+    "feedback": "Gemini AI Evaluation — Score: 35%.",
+    "qaList": [
+      {
+        "question": "Design a highly-available, scalable notification system. How do you handle deduping and rate limiting?",
+        "userAnswer": "[Skipped by Candidate]",
+        "aiFeedback": "Answer was too brief or AI evaluation failed.",
+        "suggestedAnswer": "Provide a detailed, technical answer with examples.",
+        "score": 35
+      },
+      {
+        "question": "Explain the CAP theorem. In what scenarios would you choose AP (Availability-Partition) over CP (Consistency-Partition)?",
+        "userAnswer": "[Skipped by Candidate]",
+        "aiFeedback": "Answer was too brief or AI evaluation failed.",
+        "suggestedAnswer": "Provide a detailed, technical answer with examples.",
+        "score": 35
+      },
+      {
+        "question": "How do you design a global content delivery caching layer, and how do you handle cache invalidation at scale?",
+        "userAnswer": "[Skipped by Candidate]",
+        "aiFeedback": "Answer was too brief or AI evaluation failed.",
+        "suggestedAnswer": "Provide a detailed, technical answer with examples.",
+        "score": 35
+      }
+    ]
+  },
+  {
+    "id": "int-report-1783227901661",
+    "roleTitle": "Backend Engineer (Node/Express)",
+    "date": "2026-07-05T05:05:01.661Z",
+    "duration": 28,
+    "overallScore": 35,
+    "technicalScore": 40,
+    "behavioralScore": 30,
+    "feedback": "Gemini AI Evaluation — Score: 35%.",
+    "qaList": [
+      {
+        "question": "Explain how the Node.js Event Loop works. What are macrotasks and microtasks?",
+        "userAnswer": "tuyguhjk\n",
+        "aiFeedback": "Answer was too brief or AI evaluation failed.",
+        "suggestedAnswer": "Provide a detailed, technical answer with examples.",
+        "score": 35
+      },
+      {
+        "question": "How do you secure Express.js routes against common vulnerabilities like SQL injection, CSRF, and XSS?",
+        "userAnswer": "iuyui",
+        "aiFeedback": "Answer was too brief or AI evaluation failed.",
+        "suggestedAnswer": "Provide a detailed, technical answer with examples.",
+        "score": 35
+      },
+      {
+        "question": "Describe a scenario where you would use Streams in Node.js instead of standard file system buffer methods.",
+        "userAnswer": "oiuyfgh",
+        "aiFeedback": "Answer was too brief or AI evaluation failed.",
+        "suggestedAnswer": "Provide a detailed, technical answer with examples.",
+        "score": 35
+      },
+      {
+        "question": "What is your approach to handling transactions and concurrent updates in databases like MongoDB or PostgreSQL?",
+        "userAnswer": "iuyghjk",
+        "aiFeedback": "Answer was too brief or AI evaluation failed.",
+        "suggestedAnswer": "Provide a detailed, technical answer with examples.",
+        "score": 35
+      }
+    ]
+  }
+]

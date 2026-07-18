@@ -1,0 +1,252 @@
+[
+  {
+    "id": "1",
+    "name": "Alex Johnson",
+    "email": "student@elevateai.com",
+    "password": "password123",
+    "role": "student",
+    "title": "Full Stack Engineer Intern",
+    "skills": [
+      "React",
+      "Node.js",
+      "CSS",
+      "JavaScript"
+    ],
+    "bio": "Aspiring software developer passionate about building high-fidelity client applications.",
+    "readinessScore": 0,
+    "resumeScore": 0,
+    "aptitudeScore": 0,
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "loginHistory": [
+      {
+        "timestamp": 1784356747691,
+        "ip": "::1",
+        "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "status": "success",
+        "suspicious": false
+      },
+      {
+        "timestamp": 1784357549647,
+        "ip": "::1",
+        "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+        "status": "success",
+        "suspicious": true
+      }
+    ],
+    "rememberedDevices": [],
+    "sessionId": "wg0rg40dz4c",
+    "verificationCode": "446732",
+    "verificationCodeExpires": 1784357879808,
+    "suspendedUntil": 1784359890702,
+    "suspendedReason": "Automated Proctor lockout: Candidate triggered 5 security warnings.",
+    "suspensionHistory": [
+      {
+        "startTime": 1784357796612,
+        "endTime": 1784359596612,
+        "reason": "Automated Proctor lockout: Candidate triggered 5 security warnings.",
+        "warningsCount": 5,
+        "ip": "127.0.0.1",
+        "device": "Win32",
+        "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+        "os": "Windows",
+        "status": "active"
+      },
+      {
+        "startTime": 1784357796707,
+        "endTime": 1784359596707,
+        "reason": "Automated Proctor lockout: Candidate triggered 5 security warnings.",
+        "warningsCount": 5,
+        "ip": "127.0.0.1",
+        "device": "Win32",
+        "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+        "os": "Windows",
+        "status": "active"
+      },
+      {
+        "startTime": 1784358090666,
+        "endTime": 1784359890666,
+        "reason": "Automated Proctor lockout: Candidate triggered 5 security warnings.",
+        "warningsCount": 5,
+        "ip": "127.0.0.1",
+        "device": "Win32",
+        "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+        "os": "Windows",
+        "status": "active"
+      },
+      {
+        "startTime": 1784358090702,
+        "endTime": 1784359890702,
+        "reason": "Automated Proctor lockout: Candidate triggered 5 security warnings.",
+        "warningsCount": 5,
+        "ip": "127.0.0.1",
+        "device": "Win32",
+        "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+        "os": "Windows",
+        "status": "active"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "name": "Admin user",
+    "email": "admin@elevateai.com",
+    "password": "admin",
+    "role": "admin",
+    "title": "Head of Talent Acquisition",
+    "skills": [
+      "Recruiting",
+      "Management",
+      "HR Tech"
+    ],
+    "bio": "Managing the AI question banks and reviewing applicant preparation portfolios.",
+    "failedAttempts": 1,
+    "loginHistory": [
+      {
+        "timestamp": 1784356395873,
+        "ip": "::1",
+        "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "status": "failed",
+        "suspicious": false
+      },
+      {
+        "timestamp": 1784356405415,
+        "ip": "::1",
+        "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "status": "failed",
+        "suspicious": false
+      },
+      {
+        "timestamp": 1784356458533,
+        "ip": "::1",
+        "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "status": "success",
+        "suspicious": false
+      },
+      {
+        "timestamp": 1784356552705,
+        "ip": "::1",
+        "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+        "status": "failed",
+        "suspicious": false
+      },
+      {
+        "timestamp": 1784357314152,
+        "ip": "::1",
+        "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "status": "failed",
+        "suspicious": false
+      }
+    ],
+    "lockoutUntil": null,
+    "rememberedDevices": [
+      "dev-z32lgerx0bdlrk3y0006r"
+    ],
+    "sessionId": "guyz1mu6sn",
+    "verificationCode": "991677",
+    "verificationCodeExpires": 1784357156964
+  },
+  {
+    "id": "user-1783328715376",
+    "name": "『TM』Ansh Bansod",
+    "email": "bansodansh18@gmail.com",
+    "password": "google-1783328715376",
+    "role": "student",
+    "title": "Candidate Profile (Google)",
+    "skills": [],
+    "bio": "New candidate profile created via Google Sign-In.",
+    "readinessScore": 0,
+    "resumeScore": 0,
+    "aptitudeScore": 0,
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocKalAQ1_AfQ5aFDwai9o0BfxC1xjhLP1i3geqMw7xnZK-3JISY=s96-c",
+    "sessionId": "p8vw7dgdt3m",
+    "loginHistory": [
+      {
+        "timestamp": 1784348131517,
+        "ip": "::1",
+        "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36",
+        "status": "success",
+        "suspicious": false
+      },
+      {
+        "timestamp": 1784348255825,
+        "ip": "::1",
+        "device": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+        "status": "success",
+        "suspicious": false
+      }
+    ],
+    "suspendedUntil": 1784350223628,
+    "suspendedReason": "Automated Proctor lockout: Candidate triggered 5 security warnings.",
+    "suspensionHistory": [
+      {
+        "startTime": 1784348423528,
+        "endTime": 1784350223528,
+        "reason": "Automated Proctor lockout: Candidate triggered 5 security warnings.",
+        "warningsCount": 5,
+        "ip": "127.0.0.1",
+        "device": "Win32",
+        "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+        "os": "Windows",
+        "status": "active"
+      },
+      {
+        "startTime": 1784348423628,
+        "endTime": 1784350223628,
+        "reason": "Automated Proctor lockout: Candidate triggered 5 security warnings.",
+        "warningsCount": 5,
+        "ip": "127.0.0.1",
+        "device": "Win32",
+        "browser": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0",
+        "os": "Windows",
+        "status": "active"
+      }
+    ]
+  },
+  {
+    "id": "user-1783335435324",
+    "name": "Ansh Bansod",
+    "email": "bansodansh2006@gmail.com",
+    "password": "google-1783335435324",
+    "role": "student",
+    "title": "Candidate Profile (Google)",
+    "skills": [],
+    "bio": "New candidate profile created via Google Sign-In.",
+    "readinessScore": 0,
+    "resumeScore": 0,
+    "aptitudeScore": 0,
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocITpQZnpPySVgWLS0KCZi4WzRz1eKhMvpD5ehqVMnG3FgxrQ0yp=s96-c"
+  },
+  {
+    "id": "user-1783335873054",
+    "name": "ANSH BANSOD",
+    "email": "readebyme@gmail.com",
+    "password": "google-1783335873054",
+    "role": "student",
+    "title": "Candidate Profile (Google)",
+    "skills": [],
+    "bio": "New candidate profile created via Google Sign-In.",
+    "readinessScore": 0,
+    "resumeScore": 0,
+    "aptitudeScore": 0,
+    "avatar": "https://lh3.googleusercontent.com/a/ACg8ocIns3xEuN_6wG97eHc56VyPjF1QWYEHK36ze4kmlTtKsTR6Gw=s96-c"
+  },
+  {
+    "id": "user-1784358565397",
+    "name": "anhuuuu",
+    "email": "bansod@gmail.com",
+    "password": "2006",
+    "role": "student",
+    "title": "Graduate Candidate",
+    "skills": [],
+    "bio": "New candidate profile.",
+    "readinessScore": 0,
+    "resumeScore": 0,
+    "aptitudeScore": 0,
+    "failedAttempts": 0,
+    "lockoutUntil": null,
+    "rememberedDevices": [],
+    "loginHistory": [],
+    "sessionId": "hg06rx7oocq"
+  }
+]
