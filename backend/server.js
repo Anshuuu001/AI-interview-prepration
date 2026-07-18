@@ -15,7 +15,19 @@ const PORT = process.env.PORT || 8080;
 
 // Middleware
 app.use(cors({
-  origin: 'http://localhost:5173', // Allow frontend to connect
+  origin: (origin, callback) => {
+    if (!origin) return callback(null, true);
+    // Allow localhost and any Cloudflare Pages/Workers domains
+    if (
+      origin.startsWith('http://localhost') || 
+      origin.endsWith('.pages.dev') || 
+      origin.endsWith('.workers.dev')
+    ) {
+      callback(null, true);
+    } else {
+      callback(new Error('Not allowed by CORS'));
+    }
+  },
   credentials: true
 }));
 app.use(express.json());
