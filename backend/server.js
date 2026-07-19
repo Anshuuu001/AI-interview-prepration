@@ -3,15 +3,29 @@ dotenv.config();
 
 const express = require('express');
 const cors = require('cors');
+const helmet = require('helmet');
+const rateLimit = require('express-rate-limit');
 const geminiRoutes = require('./routes/geminiRoutes');
 const authRoutes = require('./routes/authRoutes');
 const interviewRoutes = require('./routes/interviewRoutes');
 const sandboxRoutes = require('./routes/sandboxRoutes');
 const nexusRoutes = require('./routes/nexusRoutes');
 
-
 const app = express();
 const PORT = process.env.PORT || 8080;
+
+// Security: HTTP headers protection
+app.use(helmet());
+
+// Security: Rate limiting to prevent brute-force/DDoS (max 300 requests per 15 mins per IP)
+const limiter = rateLimit({
+  windowMs: 15 * 60 * 1000,
+  max: 300,
+  message: { error: 'Too many requests from this IP, please try again after 15 minutes' },
+  standardHeaders: true,
+  legacyHeaders: false,
+});
+app.use('/api', limiter);
 
 // Middleware
 app.use(cors({
